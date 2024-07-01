@@ -1,5 +1,4 @@
-## Welcome to the OpenSDN project!
-
+## Welcome to the OpenSDN project
 OpenSDN is an open-source, reliable and flexible platform for management of virtual networks. As a successor of the famous Tungsten Fabric (TF, OpenContrail, Contrail) technology, OpenSDN inherits all of TF powerful features:
 - long history (more than 10 years) of succesful industrial usage with supermassive computing hardware;
 - the support for IPv4 and IPv6 protocols;
@@ -9,6 +8,9 @@ OpenSDN is an open-source, reliable and flexible platform for management of virt
 - [CloudStack](https://cloudstack.apache.org) computing platform;
 - [Kubernetes](https://kubernetes.io) technology.
 
+<!--
+OpenSDN in numbers
+-->
 
 The project is maintained and driven by the next organizations:
 
@@ -18,6 +20,13 @@ The project is maintained and driven by the next organizations:
 - the [Servionica](https://servionica.ru);
 - the [ShapeBlue](https://www.shapeblue.com).
 
+### The OpenSDN community
+
+The users and developers of the project communicate via Telegram [OpenSDN group](https://t.me/tungstenfabric_ru) and [Discord chat](https://discord.gg/d25uUhgqjV). 
+
+There is a special [community](https://github.com/OpenSDN-io/community) repository for planning and coordination. Bugs, issues and requests for features are submitted via the [Issues](https://github.com/OpenSDN-io/community/issues) section of this [repository](https://github.com/OpenSDN-io/community). While questions regarding usage or discussions can be opened in the [Discussions](https://github.com/orgs/OpenSDN-io/discussions) section of the same repository.
+
+Contribution instruction is located [here](https://github.com/OpenSDN-io/docs/blob/master/contributing-to-opensdn/getting-started/getting-started-with-opensdn-development.rst)
 
 <!--
 
