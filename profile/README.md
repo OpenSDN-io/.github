@@ -1,7 +1,6 @@
 ## Welcome to the OpenSDN project!
 
 OpenSDN is an open-source, reliable and flexible platform for management of virtual networks. As a successor of the famous Tungsten Fabric (TF, OpenContrail, Contrail) technology, OpenSDN inherits all of TF powerful features:
-
 - long history (more than 10 years) of succesful industrial usage with supermassive computing hardware;
 - the support for IPv4 and IPv6 protocols;
 - MPLS and VxLAN overlay technologies;
@@ -11,6 +10,13 @@ OpenSDN is an open-source, reliable and flexible platform for management of virt
 - [Kubernetes](https://kubernetes.io) technology.
 
 
+The project is maintained and driven by the next organizations:
+
+- the [Nipa cloud](https://nipa.cloud);
+- the [Progmatic Lab](https://progmaticlab.com);
+- the [Mirantis](https://www.mirantis.com);
+- the [Servionica](https://servionica.ru);
+- the [ShapeBlue](https://www.shapeblue.com).
 
 
 <!--
