@@ -6,9 +6,9 @@ OpenSDN is an open-source, reliable and flexible platform for management of virt
 - the support for IPv4 and IPv6 protocols;
 - MPLS and VxLAN overlay technologies;
 - multi-tenancy;
-- OpenStack cloud computing platform;
-- CloudStack computing platform;
-- Kubernetes technology.
+- [OpenStack](https://www.openstack.org) cloud computing platform;
+- [CloudStack](https://cloudstack.apache.org) computing platform;
+- [Kubernetes](https://kubernetes.io) technology.
 
 
 
