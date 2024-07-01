@@ -1,6 +1,7 @@
 ## Welcome to the OpenSDN project
 OpenSDN is an open-source, reliable and flexible platform for management of virtual networks. As a successor of the famous Tungsten Fabric (TF, OpenContrail, Contrail) technology, OpenSDN inherits all of TF powerful features:
 - long history (more than 10 years) of succesful industrial usage with supermassive computing hardware;
+- all-in-one approach (data plane, control plane, management plane and main VNF);
 - the support for IPv4 and IPv6 protocols;
 - MPLS and VxLAN overlay technologies;
 - multi-tenancy;
