@@ -26,7 +26,7 @@ The users and developers of the project communicate via Telegram [OpenSDN group]
 
 There is a special [community](https://github.com/OpenSDN-io/community) repository for planning and coordination. Bugs, issues and requests for features are submitted via the [Issues](https://github.com/OpenSDN-io/community/issues) section of this [repository](https://github.com/OpenSDN-io/community). While questions regarding usage or discussions can be opened in the [Discussions](https://github.com/orgs/OpenSDN-io/discussions) section of the same repository.
 
-Contribution instruction is located [here](https://github.com/OpenSDN-io/docs/blob/master/contributing-to-opensdn/getting-started/getting-started-with-opensdn-development.rst)
+For the instruction on how to contribute [see here](https://github.com/OpenSDN-io/docs/blob/master/contributing-to-opensdn/getting-started/getting-started-with-opensdn-development.rst)
 
 <!--
 
