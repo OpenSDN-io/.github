@@ -9,7 +9,7 @@
 - [CloudStack](https://cloudstack.apache.org) computing platform;
 - [Kubernetes](https://kubernetes.io) technology.
 
-[OpenSDN](https://opensdn.io/) Docker containers can be downloaded from [hub.docker.com](https://hub.docker.com/u/opensdn).
+[OpenSDN](https://opensdn.io/) Docker containers can be downloaded from [hub.docker.com/u/opensdn](https://hub.docker.com/u/opensdn).
 
 <!--
 OpenSDN in numbers
