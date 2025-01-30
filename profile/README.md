@@ -28,7 +28,7 @@ The project is maintained and driven by the next organizations:
 - the [Nipa cloud](https://nipa.cloud);
 - the [Progmatic Lab](https://progmaticlab.com);
 - the [Mirantis](https://www.mirantis.com);
-- the [Servionica](https://servionica.ru);
+- the [T1 Cloud](https://t1-cloud.ru/);
 - the [ShapeBlue](https://www.shapeblue.com).
 
 <!--
