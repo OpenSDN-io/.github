@@ -21,7 +21,9 @@ The users and developers of the project communicate via Telegram [OpenSDN group]
 
 There is a special [community](https://github.com/OpenSDN-io/community) repository for planning and coordination. Bugs, issues and requests for features are submitted via the [Issues](https://github.com/OpenSDN-io/community/issues) section of this [repository](https://github.com/OpenSDN-io/community). While questions regarding usage or discussions can be opened in the [Discussions](https://github.com/orgs/OpenSDN-io/discussions) section of the same repository.
 
-For the instruction on how to contribute to the project [see here](https://github.com/OpenSDN-io/docs/blob/master/contributing-to-opensdn/getting-started/getting-started-with-opensdn-development.rst)
+For the instruction on how to contribute to the project [see here](https://github.com/OpenSDN-io/docs/blob/master/contributing-to-opensdn/getting-started/getting-started-with-opensdn-development.rst).
+
+The [Poplar](www.poplar.ru) provides [TF/OpenSDN training course](https://www.junipertrain.ru/course/?category=16&course=86).
 
 The project is maintained and driven by the next organizations:
 
@@ -29,6 +31,7 @@ The project is maintained and driven by the next organizations:
 - the [Progmatic Lab](https://progmaticlab.com);
 - the [Mirantis](https://www.mirantis.com);
 - the [T1 Cloud](https://t1-cloud.ru/);
+- the [Poplar](www.poplar.ru);
 - the [ShapeBlue](https://www.shapeblue.com).
 
 <!--
