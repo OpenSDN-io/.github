@@ -32,7 +32,7 @@ The project is maintained and driven by the next organizations:
 - the [Mirantis](https://www.mirantis.com);
 - the [T1 Cloud](https://t1-cloud.ru/);
 - the [Poplar](www.poplar.ru);
-- the [CloudX](https://cloudx.group/);
+- the [Cloud X](https://cloudx.group/);
 - the [ShapeBlue](https://www.shapeblue.com).
 
 <!--
