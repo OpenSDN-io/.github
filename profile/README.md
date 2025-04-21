@@ -31,7 +31,7 @@ The project is maintained and driven by the next organizations:
 - the [Progmatic Lab](https://progmaticlab.com);
 - the [Mirantis](https://www.mirantis.com);
 - the [Servionica](https://servionica.ru/);
-- the [Poplar](www.poplar.ru);
+- the [Poplar](http://poplar.ru/);
 - the [Cloud X](https://cloudx.group/);
 - the [ShapeBlue](https://www.shapeblue.com).
 
