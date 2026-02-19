@@ -24,7 +24,7 @@ There is a special [community](https://github.com/OpenSDN-io/community) reposito
 
 For the instruction on how to contribute to the project [see here](https://github.com/OpenSDN-io/docs/blob/master/contributing-to-opensdn/getting-started/getting-started-with-opensdn-development.rst).
 
-The [Poplar](www.poplar.ru) provides [TF/OpenSDN training course (in Russian)](https://www.junipertrain.ru/course/?category=16&course=86).
+The [Poplar](http://www.poplar.ru/) provides [TF/OpenSDN training course (in Russian)](https://www.junipertrain.ru/course/?category=16&course=86).
 
 The project is maintained and driven by the next organizations:
 
