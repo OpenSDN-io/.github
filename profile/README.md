@@ -28,13 +28,13 @@ The [Poplar](http://www.poplar.ru/) provides [TF/OpenSDN training course (in Rus
 
 The project is maintained and driven by the next organizations:
 
-- the [Nipa cloud](https://nipa.cloud);
-- the [Progmatic Lab](https://progmaticlab.com);
-- the [Mirantis](https://www.mirantis.com);
-- the [Servionica](https://servionica.ru/);
-- the [Poplar](http://poplar.ru/);
-- the [Cloud X](https://cloudx.group/);
-- the [ShapeBlue](https://www.shapeblue.com).
+- [Nipa cloud](https://nipa.cloud);
+- [Progmatic Lab](https://progmaticlab.com);
+- [Mirantis](https://www.mirantis.com);
+- [Servionica](https://servionica.ru/);
+- [Poplar](http://poplar.ru/);
+- [Cloud X](https://cloudx.group/);
+- [ShapeBlue](https://www.shapeblue.com).
 
 <!--
 
